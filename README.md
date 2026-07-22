@@ -27,8 +27,8 @@ Microsoft-certified (PL-300) Data Analyst who turns raw, messy data into decisio
 
 | Tool | What it does | Link |
 |---|---|---|
-| **⚡ DAX Architect** | Define a data model, describe a business question in plain English ("YoY growth %", "profit margin %", "running total"), and get structured, ready-to-paste DAX. 25+ patterns. Runs 100% in your browser — no Power BI, no internet needed. | **[dax-architect.onrender.com](https://dax-architect.onrender.com/)** |
 | **🔧 DAX Workbench** | A Power BI External Tool that connects to your **live** open model, writes and *verifies* DAX on Microsoft's own engine, optimizes measures with before/after benchmarks, and deploys them back — deterministically. | **[dax-workbench.onrender.com](https://dax-workbench.onrender.com/)** |
+| **⚡ DAX Architect** | Define a data model, describe a business question in plain English ("YoY growth %", "profit margin %", "running total"), and get structured, ready-to-paste DAX. 25+ patterns. Runs 100% in your browser — no Power BI, no internet needed. | **[dax-architect.onrender.com](https://dax-architect.onrender.com/)** |
 
 ---
 
