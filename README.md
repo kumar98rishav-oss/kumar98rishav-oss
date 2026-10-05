@@ -38,6 +38,7 @@ Microsoft-certified (PL-300) Data Analyst who turns raw, messy data into decisio
 - 🧩 I own the full pipeline: **SQL → Power Query ETL → star-schema modeling → DAX → RLS → published Power BI Service.**
 - 🛠️ **I build Power BI productivity tools** — shipped solo using AI-assisted development. My flagship, **DAX Workbench**, is a *deterministic* measure engine (no LLM in the DAX path) that writes, verifies, and optimizes DAX against your live model.
 - 🏅 **Microsoft Certified: Power BI Data Analyst Associate (PL-300)** · Gold Medalist, M.Sc. Biomedical Science.
+- 📦 Recently built an end-to-end **supply chain analytics** dashboard (procurement, inventory, OTIF delivery, supply-chain P&L).
 - 🌱 Currently deepening **Microsoft Fabric** and **Snowflake ELT**.
 
 ---
@@ -86,6 +87,11 @@ A **design studio for Power BI reports** that works directly on the `.pbip` file
 - **Style & Theme Lab** — one-click restyle of every visual via style packs + live theme editing.
 - **Design Doctor** — linter for misalignments, off-palette colors, and inconsistent radii, with batch fixes.
 - Reads field names, geometry, and formatting only — **zero data rows**. React 18 + TypeScript + Vite.
+
+#### 📦 [Supply Chain Control Tower](https://github.com/kumar98rishav-oss/Supply_Chain_Dashboard) — *Power BI, PBIP*
+An end-to-end dashboard following a product **supplier → warehouse → customer → P&L**: 5 pages (executive KPIs, operations & supplier risk with a Deneb quadrant, supply-chain P&L, drill-through supplier scorecard, warehouse tooltip), a star-schema model with 146 DAX measures, field-parameter trends and bookmark toggles.
+
+<a href="https://github.com/kumar98rishav-oss/Supply_Chain_Dashboard"><img src="https://raw.githubusercontent.com/kumar98rishav-oss/Supply_Chain_Dashboard/main/docs/images/01-executive-control-tower.png" alt="Supply Chain Control Tower" width="720"/></a>
 
 #### 📊 Power BI & Excel Analytics
 - **[Hospital Business Intelligence Dashboard](https://github.com/kumar98rishav-oss/Hospital_Business_Intelligence_Dashboard_Power-BI)** — hospital operations, patient management, doctor performance, resource utilization.
